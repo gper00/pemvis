@@ -1,0 +1,22 @@
+# Python Byte-compiled files
+__pycache__/
+*.pyc
+
+# IDE / Editor folders
+.vscode/
+
+# Virtual Environment
+venv/
+
+# Database
+database/habits.db
+database/__pycache__
+
+# Exported Reports
+# Ignore the contents of the exports directory
+exports/*
+!exports/.gitkeep
+
+# OS-generated files
+.DS_Store
+Thumbs.db
