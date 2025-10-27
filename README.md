@@ -1,0 +1,1 @@
+Repository ini berisi tugas-tugas mata kuliah Pemrograman Visual menggunakan PyQt5
